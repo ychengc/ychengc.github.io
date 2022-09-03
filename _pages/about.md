@@ -34,7 +34,7 @@ Research Interests
 * Data management on new hardware
 * AI4DB and DB4AI
 * Data cleaning, data integration, data discovery
-* Spatial-temporal data management
+* Spatial data management
 
 Selected Publications
 ------
