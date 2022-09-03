@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to my homepage!"
+title                    : "Welcome to my homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
