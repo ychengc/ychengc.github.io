@@ -35,7 +35,7 @@ Selected Publications (* corresponding author)
 
 8. **C Yang**, L Chen, S Shang, F Zhu, L Liu, L Shao. Toward Efficient Navigation of Massive-Scale Geo-Textual Streams. IJCAI, 2019: 4838-4845.
 
-9. D Deng, **C Yang***, S Shang*, F Zhu, L Liu, L Shao. LCJoin: set containment join via list crosscutting. ICDE, 2019: 362-373.
+9. D Deng, **C Yang***, S Shang&#42, F Zhu, L Liu, L Shao. LCJoin: set containment join via list crosscutting. ICDE, 2019: 362-373.
 
 10. P Jin, **C Yang**, C.S. Jensen, P Yang, L Yue. Read/write-optimized tree indexing for solid-state drives. The VLDB Journal, 2016, 25(5): 695-717.
 
