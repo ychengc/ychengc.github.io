@@ -33,7 +33,7 @@ Selected Publications (* corresponding author)
 
 7. L Chen, S Shang, **C Yang**, J Li. Spatial keyword search: a survey. GeoInformatica, 2020, 24(1): 85-106.
 
-8. **C Yang**, L Chen, S Shang, F Zhu, L Liu, L Shao. Toward Efficient Navigation of Massive-Scale Geo-Textual Streams. IJCAI, 2019: 4838-4845.
+8. **C Yang**, L Chen, S Shang, F Zhu, L Liu, L Shao. Toward efficient navigation of massive-scale geo-textual streams. IJCAI, 2019: 4838-4845.
 
 9. D Deng, **C Yang***, S Shang\*, F Zhu, L Liu, L Shao. LCJoin: set containment join via list crosscutting. ICDE, 2019: 362-373.
 
