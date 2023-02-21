@@ -19,9 +19,9 @@ Research Interests
 
 Selected Publications (* corresponding author)
 ------
-1. L Chen, R Chen, **C Yang***, Y Han, R Zhang, X Zhou, P Jin, W Qian. Workload-Aware Log-Structured Merge Key-Value Store for NVM-SSD Hybrid Storage. ICDE, 2023: 1-13.
+1. L Chen, R Chen, **C Yang***, Y Han, R Zhang, X Zhou, P Jin, W Qian. Workload-aware log-structured merge key-value store for NVM-SSD hybrid storage. ICDE, 2023: 1-13.
 
-2. K Li, S Weng, P Liu, L Ni, **C Yang***, R Zhang\*, X Zhou, J Lou, G Huang, W Qian, A Zhou. Leopard: A Black-Box Approach for Efficiently Verifying Various Isolation Levels. ICDE, 2023: 1-14.
+2. K Li, S Weng, P Liu, L Ni, **C Yang***, R Zhang\*, X Zhou, J Lou, G Huang, W Qian, A Zhou. Leopard: a black-box approach for efficiently verifying various isolation levels. ICDE, 2023: 1-14.
 
 3. **C Yang**, L Chen, H Wang, S Shang, R Mao, X Zhang. Dynamic set similarity join: an update log based approach. IEEE Transactions on Knowledge and Data Engineering, 1-14, 2021.
 
