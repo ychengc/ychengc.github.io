@@ -19,28 +19,32 @@ Research Interests
 
 Selected Publications (* corresponding author)
 ------
-1. **C Yang**, L Chen, H Wang, S Shang, R Mao, X Zhang. Dynamic set similarity join: an update log based approach. IEEE Transactions on Knowledge and Data Engineering, 1-14, 2021.
+1. L Chen, R Chen, **C Yang***, Y Han, R Zhang, X Zhou, P Jin, W Qian. Workload-Aware Log-Structured Merge Key-Value Store for NVM-SSD Hybrid Storage. ICDE, 2023: 1-13.
 
-2. **C Yang**, D Deng, S Shang, F Zhu, L Liu, L Shao. Internal and external memory set containment join. The VLDB Journal, 2021, 30(3): 447-470.
+2. K Li, S Weng, P Liu, L Ni, **C Yang***, R Zhang\*, X Zhou, J Lou, G Huang, W Qian, A Zhou. Leopard: A Black-Box Approach for Efficiently Verifying Various Isolation Levels. ICDE, 2023: 1-14.
 
-3. **C Yang**, L Chen, H Wang, S Shang. Towards efficient selection of activity trajectories based on diversity and coverage. AAAI, 2021, 35(1): 689-696.
+3. **C Yang**, L Chen, H Wang, S Shang, R Mao, X Zhang. Dynamic set similarity join: an update log based approach. IEEE Transactions on Knowledge and Data Engineering, 1-14, 2021.
 
-4. **C Yang**, D Deng, S Shang, L Shao. Efficient locality-sensitive hashing over high-dimensional data streams. ICDE, 2020: 1986-1989.
+4. **C Yang**, D Deng, S Shang, F Zhu, L Liu, L Shao. Internal and external memory set containment join. The VLDB Journal, 2021, 30(3): 447-470.
 
-5. H Wang, **C Yang***, X Zhang, X Gao. Efficient locality-sensitive hashing over high-dimensional streaming data. Neural Computing and Applications, 2020: 1-14.
+5. **C Yang**, L Chen, H Wang, S Shang. Towards efficient selection of activity trajectories based on diversity and coverage. AAAI, 2021, 35(1): 689-696.
 
-6. P Jin, **C Yang**, X Wang, L Yue, D Zhang. SAL-hashing: a self-adaptive linear hashing index for SSDs. IEEE Transactions on Knowledge and Data Engineering, 2020, 32(3): 519-532.
+6. **C Yang**, D Deng, S Shang, L Shao. Efficient locality-sensitive hashing over high-dimensional data streams. ICDE, 2020: 1986-1989.
 
-7. L Chen, S Shang, **C Yang**, J Li. Spatial keyword search: a survey. GeoInformatica, 2020, 24(1): 85-106.
+7. H Wang, **C Yang***, X Zhang, X Gao. Efficient locality-sensitive hashing over high-dimensional streaming data. Neural Computing and Applications, 2020: 1-14.
 
-8. **C Yang**, L Chen, S Shang, F Zhu, L Liu, L Shao. Toward efficient navigation of massive-scale geo-textual streams. IJCAI, 2019: 4838-4845.
+8. P Jin, **C Yang**, X Wang, L Yue, D Zhang. SAL-hashing: a self-adaptive linear hashing index for SSDs. IEEE Transactions on Knowledge and Data Engineering, 2020, 32(3): 519-532.
 
-9. D Deng, **C Yang***, S Shang\*, F Zhu, L Liu, L Shao. LCJoin: set containment join via list crosscutting. ICDE, 2019: 362-373.
+9. L Chen, S Shang, **C Yang**, J Li. Spatial keyword search: a survey. GeoInformatica, 2020, 24(1): 85-106.
 
-10. P Jin, **C Yang**, C.S. Jensen, P Yang, L Yue. Read/write-optimized tree indexing for solid-state drives. The VLDB Journal, 2016, 25(5): 695-717.
+10. **C Yang**, L Chen, S Shang, F Zhu, L Liu, L Shao. Toward efficient navigation of massive-scale geo-textual streams. IJCAI, 2019: 4838-4845.
 
-11. **C Yang**, P Jin, L Yue, D Zhang. Self-adaptive linear hashing for solid state drives. ICDE, 2016: 433-444.
+11. D Deng, **C Yang***, S Shang\*, F Zhu, L Liu, L Shao. LCJoin: set containment join via list crosscutting. ICDE, 2019: 362-373.
 
-12. L Li, P Jin, **C Yang**, Z Wu, L Yue. Optimizing B+-tree for PCM-based hybrid memory. EDBT, 2016: 662-663.
+12. P Jin, **C Yang**, C.S. Jensen, P Yang, L Yue. Read/write-optimized tree indexing for solid-state drives. The VLDB Journal, 2016, 25(5): 695-717.
 
-13. **C Yang**, P Jin, L Yue, P Yang. Efficient buffer management for tree indexes on solid state drives. International Journal of Parallel Programming, 2016, 44(1): 5-25. (best paper of NPC 2014)
+13. **C Yang**, P Jin, L Yue, D Zhang. Self-adaptive linear hashing for solid state drives. ICDE, 2016: 433-444.
+
+14. L Li, P Jin, **C Yang**, Z Wu, L Yue. Optimizing B+-tree for PCM-based hybrid memory. EDBT, 2016: 662-663.
+
+15. **C Yang**, P Jin, L Yue, P Yang. Efficient buffer management for tree indexes on solid state drives. International Journal of Parallel Programming, 2016, 44(1): 5-25. (best paper of NPC 2014)
