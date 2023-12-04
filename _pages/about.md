@@ -20,7 +20,7 @@ Research Interests
 Selected Publications (* corresponding author)
 ------
 
-1. P Liu, S Weng, K Li, L Ni, C Yang, R Zhang, W Qian, D Qiao. Leopard: a general test suite for isolation level verification. CIDR, 2024: 1-7.
+1. P Liu, S Weng, K Li, L Ni, **C Yang***, R Zhang\*, W Qian, D Qiao. Leopard: a general test suite for isolation level verification. CIDR, 2024: 1-7.
 
 2. L Chen, R Chen, **C Yang***, Y Han, R Zhang, X Zhou, P Jin, W Qian. Workload-aware log-structured merge key-value store for NVM-SSD hybrid storage. ICDE, 2023: 2207-2219.
 
