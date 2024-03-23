@@ -20,9 +20,9 @@ Research Interests
 Selected Publications (* corresponding author)
 ------
 
-1. Y Han\*, H Wang, L Chen, Y Dong, X Chen, B Yu, **C Yang***, W Qian. ByteCard: Enhancing Data Warehousing with Learned Cardinality Estimation. SIGMOD, 2024: 1-14.
+1. Y Han\*, H Wang, L Chen, Y Dong, X Chen, B Yu, **C Yang***, W Qian. ByteCard: enhancing data warehousing with learned cardinality estimation. SIGMOD, 2024: 1-14.
 
-2. Q Wang, H Li, Z Hu, R Zhang\*, **C Yang***, P Cai, X Zhou, A Zhou. Mirage: Generating Enormous Databases for Complex Workloads. ICDE, 2024: 1-13.
+2. Q Wang, H Li, Z Hu, R Zhang\*, **C Yang***, P Cai, X Zhou, A Zhou. Mirage: generating enormous databases for complex workloads. ICDE, 2024: 1-13.
 
 3. P Liu, S Weng, K Li, L Ni, **C Yang***, R Zhang\*, W Qian, D Qiao. Leopard: a general test suite for isolation level verification. CIDR, 2024: 1-7.
 
