@@ -20,7 +20,7 @@ Research Interests
 Selected Publications (* corresponding author)
 ------
 
-1. Y Han\*, H Wang, L Chen, Y Dong, X Chen, B Yu, **C Yang***, W Qian. ByteCard: enhancing ByteDance’s data warehouse with learned cardinality estimation. SIGMOD, 2024: 1-14.
+1. Y Han\*, H Wang, L Chen, Y Dong, X Chen, B Yu, **C Yang***, W Qian. ByteCard: enhancing ByteDance’s data warehouse with learned cardinality estimation. SIGMOD, 2024: 41-54. (Industrial)
 
 2. Q Wang, H Li, Z Hu, R Zhang\*, **C Yang***, P Cai, X Zhou, A Zhou. Mirage: generating enormous databases for complex workloads. ICDE, 2024: 1-13.
 
