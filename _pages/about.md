@@ -14,6 +14,7 @@ Research Interests
 ------
 * Data management on new hardware
 * AI4DB and DB4AI
+* Database testing and benchmarking
 * Data cleaning, data integration, data discovery
 * Spatial data management
 
