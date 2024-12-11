@@ -10,6 +10,8 @@ redirect_from:
 
 Chengcheng Yang (杨程程 in Chinese) is a research professor at School of Data Science and Engineering, [East China Normal University (ECNU)](https://english.ecnu.edu.cn/). Prior to joining ECNU, he was a postdoctoral researcher at School of Computer, Electrical and Mathematical Science and Engineering (CEMSE), [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en). He was also a research associate at [Inception Institute of Artificial Intelligence](https://www.inceptioniai.org/en) (Abu Dhabi, UAE), and a senior engineer at [Shanghai Huawei Technology Co. Ltd](https://www.huawei.com/en/). He obtained both of his Ph.D. degree (2017) and B.S. degree (2012) from School of Computer Science and Technology, [University of Science and Technology of China](http://en.ustc.edu.cn/). His research interests focus on database systems, storage engines, in-database machine learning, and implementing database internals with AI. 
 
+<span style="color:blue">We are always looking for highly motivated Phd and master students.</span>
+
 Research Interests
 ------
 * Data management on new hardware
