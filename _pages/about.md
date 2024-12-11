@@ -21,46 +21,48 @@ Research Interests
 Selected Publications (* corresponding author)
 ------
 
-1. K Li, S Weng, L Ni, **C Yang***, R Zhang, X Zhou, A Zhou. DBStorm: generating various effective workloads for testing isolation levels. ISSTA, 2024: 755-767.
+1. Z Pan, Y Zhang, **C Yang***, A Ghazal, R Zhang, H Hu, X Wu, Y Dong, X Zhou. Hyper: hybrid physical design advisor with multi-agent reinforcement learning. ICDE, 2025:1-14.
 
-2. Y Han\*, H Wang, L Chen, Y Dong, X Chen, B Yu, **C Yang***, W Qian. ByteCard: enhancing ByteDance’s data warehouse with learned cardinality estimation. SIGMOD, 2024: 41-54. (Industrial)
+2.  K Li, S Weng, L Ni, **C Yang***, R Zhang, X Zhou, A Zhou. DBStorm: generating various effective workloads for testing isolation levels. ISSTA, 2024: 755-767.
 
-3. Q Wang, H Li, Z Hu, R Zhang\*, **C Yang***, P Cai, X Zhou, A Zhou. Mirage: generating enormous databases for complex workloads. ICDE, 2024: 3989-4001.
+3. Y Han\*, H Wang, L Chen, Y Dong, X Chen, B Yu, **C Yang***, W Qian. ByteCard: enhancing ByteDance’s data warehouse with learned cardinality estimation. SIGMOD, 2024: 41-54. (Industrial)
 
-4. Y Zhang, S Yang, H Hu, **C Yang**, P Cai, X Zhou. SuccinctKV: a CPU-eficient LSM-tree based KV store with scan-based compaction. ACM Transactions on Architecture and Code Optimization, 2024:1-25.
+4. Q Wang, H Li, Z Hu, R Zhang\*, **C Yang***, P Cai, X Zhou, A Zhou. Mirage: generating enormous databases for complex workloads. ICDE, 2024: 3989-4001.
 
-5. P Liu, S Weng, K Li, L Ni, **C Yang***, R Zhang\*, W Qian, D Qiao. Leopard: a general test suite for isolation level verification. CIDR, 2024: 1-7.
+5. Y Zhang, S Yang, H Hu, **C Yang**, P Cai, X Zhou. SuccinctKV: a CPU-eficient LSM-tree based KV store with scan-based compaction. ACM Transactions on Architecture and Code Optimization, 2024:1-25.
 
-6. C Fan, Z Pan, W Sun, **C Yang**, WN Chen. LATuner: an LLM-enhanced database tuning system based on adaptive surrogate model. ECML, 2024:372-388.
+6. P Liu, S Weng, K Li, L Ni, **C Yang***, R Zhang\*, W Qian, D Qiao. Leopard: a general test suite for isolation level verification. CIDR, 2024: 1-7.
 
-7. L Chen, R Chen, **C Yang***, Y Han, R Zhang, X Zhou, P Jin, W Qian. Workload-aware log-structured merge key-value store for NVM-SSD hybrid storage. ICDE, 2023: 2207-2219.
+7. C Fan, Z Pan, W Sun, **C Yang**, WN Chen. LATuner: an LLM-enhanced database tuning system based on adaptive surrogate model. ECML, 2024:372-388.
 
-8. K Li, S Weng, P Liu, L Ni, **C Yang***, R Zhang\*, X Zhou, J Lou, G Huang, W Qian, A Zhou. Leopard: a black-box approach for efficiently verifying various isolation levels. ICDE, 2023: 722-735.
+8. L Chen, R Chen, **C Yang***, Y Han, R Zhang, X Zhou, P Jin, W Qian. Workload-aware log-structured merge key-value store for NVM-SSD hybrid storage. ICDE, 2023: 2207-2219.
 
-9. Z Pan, Y Wang, Y Zhang, S Yang, Y Cheng, P Chen, C Guo, Q Wen, X Tian, Y Dou, Z Zhou, **C Yang**, A Zhou, B Yang. MagicScaler: uncertainty-aware, predictive autoscaling. PVLDB, 2023, 16(12):3808–3821.
+9. K Li, S Weng, P Liu, L Ni, **C Yang***, R Zhang\*, X Zhou, J Lou, G Huang, W Qian, A Zhou. Leopard: a black-box approach for efficiently verifying various isolation levels. ICDE, 2023: 722-735.
 
-10. **C Yang**, L Chen, H Wang, S Shang, R Mao, X Zhang. Dynamic set similarity join: an update log based approach. IEEE Transactions on Knowledge and Data Engineering, 1-14, 2021.
+10. Z Pan, Y Wang, Y Zhang, S Yang, Y Cheng, P Chen, C Guo, Q Wen, X Tian, Y Dou, Z Zhou, **C Yang**, A Zhou, B Yang. MagicScaler: uncertainty-aware, predictive autoscaling. PVLDB, 2023, 16(12):3808–3821.
 
-11. **C Yang**, D Deng, S Shang, F Zhu, L Liu, L Shao. Internal and external memory set containment join. The VLDB Journal, 2021, 30(3): 447-470.
+11. **C Yang**, L Chen, H Wang, S Shang, R Mao, X Zhang. Dynamic set similarity join: an update log based approach. IEEE Transactions on Knowledge and Data Engineering, 1-14, 2021.
 
-12. **C Yang**, L Chen, H Wang, S Shang. Towards efficient selection of activity trajectories based on diversity and coverage. AAAI, 2021, 35(1): 689-696.
+12. **C Yang**, D Deng, S Shang, F Zhu, L Liu, L Shao. Internal and external memory set containment join. The VLDB Journal, 2021, 30(3): 447-470.
 
-13. **C Yang**, D Deng, S Shang, L Shao. Efficient locality-sensitive hashing over high-dimensional data streams. ICDE, 2020: 1986-1989.
+13. **C Yang**, L Chen, H Wang, S Shang. Towards efficient selection of activity trajectories based on diversity and coverage. AAAI, 2021, 35(1): 689-696.
 
-14. H Wang, **C Yang***, X Zhang, X Gao. Efficient locality-sensitive hashing over high-dimensional streaming data. Neural Computing and Applications, 2020: 1-14.
+14. **C Yang**, D Deng, S Shang, L Shao. Efficient locality-sensitive hashing over high-dimensional data streams. ICDE, 2020: 1986-1989.
 
-15. P Jin, **C Yang**, X Wang, L Yue, D Zhang. SAL-hashing: a self-adaptive linear hashing index for SSDs. IEEE Transactions on Knowledge and Data Engineering, 2020, 32(3): 519-532.
+15. H Wang, **C Yang***, X Zhang, X Gao. Efficient locality-sensitive hashing over high-dimensional streaming data. Neural Computing and Applications, 2020: 1-14.
 
-16. L Chen, S Shang, **C Yang**, J Li. Spatial keyword search: a survey. GeoInformatica, 2020, 24(1): 85-106.
+16. P Jin, **C Yang**, X Wang, L Yue, D Zhang. SAL-hashing: a self-adaptive linear hashing index for SSDs. IEEE Transactions on Knowledge and Data Engineering, 2020, 32(3): 519-532.
 
-17. **C Yang**, L Chen, S Shang, F Zhu, L Liu, L Shao. Toward efficient navigation of massive-scale geo-textual streams. IJCAI, 2019: 4838-4845.
+17. L Chen, S Shang, **C Yang**, J Li. Spatial keyword search: a survey. GeoInformatica, 2020, 24(1): 85-106.
 
-18. D Deng, **C Yang***, S Shang\*, F Zhu, L Liu, L Shao. LCJoin: set containment join via list crosscutting. ICDE, 2019: 362-373.
+18. **C Yang**, L Chen, S Shang, F Zhu, L Liu, L Shao. Toward efficient navigation of massive-scale geo-textual streams. IJCAI, 2019: 4838-4845.
 
-19. P Jin, **C Yang**, C.S. Jensen, P Yang, L Yue. Read/write-optimized tree indexing for solid-state drives. The VLDB Journal, 2016, 25(5): 695-717.
+19. D Deng, **C Yang***, S Shang\*, F Zhu, L Liu, L Shao. LCJoin: set containment join via list crosscutting. ICDE, 2019: 362-373.
 
-20. **C Yang**, P Jin, L Yue, D Zhang. Self-adaptive linear hashing for solid state drives. ICDE, 2016: 433-444.
+20. P Jin, **C Yang**, C.S. Jensen, P Yang, L Yue. Read/write-optimized tree indexing for solid-state drives. The VLDB Journal, 2016, 25(5): 695-717.
 
-21. L Li, P Jin, **C Yang**, Z Wu, L Yue. Optimizing B+-tree for PCM-based hybrid memory. EDBT, 2016: 662-663.
+21. **C Yang**, P Jin, L Yue, D Zhang. Self-adaptive linear hashing for solid state drives. ICDE, 2016: 433-444.
 
-22. **C Yang**, P Jin, L Yue, P Yang. Efficient buffer management for tree indexes on solid state drives. International Journal of Parallel Programming, 2016, 44(1): 5-25. (best paper of NPC 2014)
+22. L Li, P Jin, **C Yang**, Z Wu, L Yue. Optimizing B+-tree for PCM-based hybrid memory. EDBT, 2016: 662-663.
+
+23. **C Yang**, P Jin, L Yue, P Yang. Efficient buffer management for tree indexes on solid state drives. International Journal of Parallel Programming, 2016, 44(1): 5-25. (best paper of NPC 2014)
