@@ -27,7 +27,7 @@ Selected Publications (* corresponding author)
 
 2. Z Pan, Y Zhang, **C Yang***, A Ghazal, R Zhang, H Hu, X Wu, Y Dong, X Zhou. Hyper: hybrid physical design advisor with multi-agent reinforcement learning. ICDE, 2025:1-14.
 
-3. Y Han, L Chen, H Wang, Z Chen, Y Zhang, **C Yang***,  K Hao, Z Yang. Learning from the past: adaptive parallelism tuning for stream processing systems. ICDE, 2025:1-14.
+3. Y Han, L Chen, H Wang, Z Chen, Y Zhang, **C Yang**,  K Hao, Z Yang. Learning from the past: adaptive parallelism tuning for stream processing systems. ICDE, 2025:1-14.
 
 4. Z Hu, R Zhang, C Yang, X Zhou, Q Xu, **C Yang**. Artemis: a customizable workload generation toolkit for benchmarking cardinality estimation. ICDE, 2025:1-4.
 
