@@ -31,7 +31,7 @@ Selected Publications (* corresponding author)
 
 4. X Huang, Z Hu, S Weng, R Zhang, **C Yang**, X Zhou, W Qian, Q Xu, C Yang. A query-aware enormous database generator for system performance evaluation. SIGMOD, 2025:1-4.
 
-5. Z Hu, R Zhang, C Yang, X Zhou, Q Xu, **C Yang**. Artemis: a customizable workload generation toolkit for benchmarking cardinality estimation. ICDE, 2025:1-4.
+5. Z Hu, R Zhang, **C Yang**, X Zhou, Q Xu, C Yang. Artemis: a customizable workload generation toolkit for benchmarking cardinality estimation. ICDE, 2025:1-4.
 
 6. X Qiu, X Li, R Pang, Z Pan, X Wu, L Yang, J Hu, Y Shu, X Lu, **C Yang**, C Guo, A Zhou, C.S. Jensen, B Yang. EasyTime: time series forecasting made easy. ICDE, 2025:1-4.
 
