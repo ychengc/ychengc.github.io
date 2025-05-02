@@ -78,9 +78,3 @@ Selected Publications (* corresponding author)
 27. L Li, P Jin, **C Yang**, Z Wu, L Yue. Optimizing B+-tree for PCM-based hybrid memory. EDBT, 2016: 662-663.
 
 28. **C Yang**, P Jin, L Yue, P Yang. Efficient buffer management for tree indexes on solid state drives. International Journal of Parallel Programming, 2016, 44(1): 5-25. (best paper of NPC 2014)
-
-Students
-------
-**2025:** Y Chen (Master-->Meituan SSP), G Yang (Master-->Didi SP), J Yang (Master-->Tencent SP).
-
-**2024:** L Chen (Master-->ECNU Phd), R Chen (Master-->PingCAP SP), H Wang (Master-->ByteDance SSP), X Xiong (Master-->BYD), Q Wang (Phd--> Tencent Game SSP, cosupervised with Prof. R Zhang), K Li(Phd-->Assistant Professor in Fuzhou University, cosupervised with Prof. R Zhang).
