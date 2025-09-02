@@ -24,7 +24,7 @@ Selected Publications (* corresponding author)
 ------
 
 
-1. L Chen, Y Han\*, Y Chen, X Chen, **C Yang***, W Qian. AQETuner: reliable query-level configuration tuning for analytical query engines. PVLDB, 2025, 18(8): 2709 - 2721.
+1. L Chen, Y Han\*, Y Chen, X Chen, **C Yang***, W Qian. AQETuner: reliable query-level configuration tuning for analytical query engines. PVLDB, 2025, 18(8): 2709-2721.
 
 2.  W Sun, Z Pan, Z Hu, Y Liu, **C Yang***, R Zhang, X Zhou. Rabbit: retrieval-augmented generation enables better automatic database knob tuning. ICDE, 2025: 3807-3820.
 
