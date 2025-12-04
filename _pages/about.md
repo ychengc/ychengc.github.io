@@ -23,8 +23,7 @@ Research Interests
 Selected Publications (* corresponding author)
 ------
 
-
-1.Z Hu, S Weng, Z Pan, R Zhang, **C Yang**, P Cai, X Zhou, Q Xu, C Yang. Vodka: rethink benchmarking philosophy in HTAP systems. PVLDB, 2025, 1-14.
+1. Z Hu, S Weng, Z Pan, R Zhang, **C Yang**, P Cai, X Zhou, Q Xu, C Yang. Vodka: rethink benchmarking philosophy in HTAP systems. PVLDB, 2025, 1-14.
 
 2. L Chen, Y Han\*, Y Chen, X Chen, **C Yang***, W Qian. AQETuner: reliable query-level configuration tuning for analytical query engines. PVLDB, 2025, 18(8): 2709-2721.
 
