@@ -23,13 +23,13 @@ Research Interests
 Selected Publications (* corresponding author)
 ------
 
-1.Z Pan, W Sun, Y Zhang, T Purcell, Y Dong, **C Yang**, R Zhang, X Zhou, J Xu. OBELISK: efficient offline query planning with Bayesian optimization-informed language model reasoning. In: PVLDB, 2026, 1-14.
+1. Z Pan, W Sun, Y Zhang, T Purcell, Y Dong, **C Yang***, R Zhang, X Zhou, J Xu. OBELISK: efficient offline query planning with Bayesian optimization-informed language model reasoning. In: PVLDB, 2026, 1-14.
 
-2. S Weng, H Yang, Z Hu, R Zhang, Z Pan, **C Yang**, X Zhou, Y Chen, X He, A Pan. Pisco: an isolation bug case reduction and deduplication framework. In: PVLDB, 2026, 19(6): 1413-1426. 
+2. S Weng, H Yang, Z Hu, R Zhang, Z Pan, **C Yang***, X Zhou, Y Chen, X He, A Pan. Pisco: an isolation bug case reduction and deduplication framework. In: PVLDB, 2026, 19(6): 1413-1426. 
 
-3. Y Liu, Y Lin\*, Z Pan, **C Yang**, Y Li, A Zhou. APEX: adaptive variable-wise parallel execution for worst-case optimal joins on graph queries. In: ICDE, 2026:1-14.
+3. Y Liu, Y Lin\*, Z Pan, **C Yang***, Y Li, A Zhou. APEX: adaptive variable-wise parallel execution for worst-case optimal joins on graph queries. In: ICDE, 2026:1-14.
 
-4. L Chen, Q Zheng, Z Pan, **C Yang**, R Zhang, X Zhou. BOND: a co-designed framework for LLM-powered analytics over relational data. In: ICDE, 2026:1-13.
+4. L Chen, Q Zheng, Z Pan, **C Yang***, R Zhang, X Zhou. BOND: a co-designed framework for LLM-powered analytics over relational data. In: ICDE, 2026:1-13.
 
 5. S Weng, K Li, Z Hu, L Ni, **C Yang**, R Zhang, P Cai, X Zhou, W Qian, J Leng. A high-performance black-box bug-finding tool for database isolation levels. IEEE Transactions on Knowledge and Data Engineering, 2026: 1-14.
 
