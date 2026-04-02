@@ -35,7 +35,7 @@ Selected Publications (* corresponding author)
 
 6. Y Han, Z Pan, L Chen, **C Yang**, R Zhang, X Zhou. Q-Doctor: retrieval-augmented diagnosis and multi-agent correction for query performance anomalies. In: DASFAA, 2026: 1-16.
 
-7. Z Hu, S Weng, Z Pan, R Zhang, **C Yang**, P Cai, X Zhou, Q Xu, C Yang. Vodka: rethink benchmarking philosophy in HTAP systems. PVLDB, 2025, 1-14.
+7. Z Hu, S Weng, Z Pan, R Zhang, **C Yang**, P Cai, X Zhou, Q Xu, C Yang. Vodka: rethink benchmarking philosophy in HTAP systems. In: PVLDB, 2025, 19(3): 481-494.
 
 8. L Chen, Y Han\*, Y Chen, X Chen, **C Yang***, W Qian. AQETuner: reliable query-level configuration tuning for analytical query engines. PVLDB, 2025, 18(8): 2709-2721.
 
